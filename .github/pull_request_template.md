@@ -29,11 +29,11 @@
 <!-- for GitHub Copilot review rule -->
 <!--
 レビューする際には、以下のprefix(接頭辞)を付けてください。
-[must]
-[imo] (in my opinion)
-[nits] (nitpick)
-[ask]
-[fyi]
+[must]（must fix）
+[imo]（in my opinion）
+[nits]（nitpick）
+[ask]（question）
+[fyi]（for your information）
 -->
 <!-- for GitHub Copilot review rule -->
 
