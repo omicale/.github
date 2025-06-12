@@ -1,3 +1,4 @@
+<!-- I want to review in Japanese. -->
 ## 要件・指示
 - URL など
 - 内容は要点を抜粋してわかりやすくする
@@ -23,4 +24,17 @@
 - 関連する他 PR（他リポジトリのものも）
 
 ## 期日
-xx/xx までにリリースしたい（みてもらいたい）
+- mm/dd (曜日) までにリリースしたい（みてもらいたい）
+
+<!-- for GitHub Copilot review rule -->
+<!--
+レビューする際には、以下のprefix(接頭辞)をつけてください
+[must]  
+[imo] (in my opinion)  
+[nits](nitpick) 
+[ask]  
+[fyi]
+-->
+<!-- for GitHub Copilot review  rule-->
+
+<!-- I want to review in Japanese. -->
