@@ -36,5 +36,3 @@
 [fyi] → 参考情報
 -->
 <!-- for GitHub Copilot review rule -->
-
-<!-- I want to review in Japanese. -->
