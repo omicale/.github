@@ -28,6 +28,7 @@
 
 <!-- for GitHub Copilot review rule -->
 <!--
+日本語でレビューしてください。
 レビューする際には、以下のprefix(接頭辞)を付けてください。
 [must] must fix
 [imo] in my opinion
