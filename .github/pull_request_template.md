@@ -28,12 +28,19 @@
 
 <!-- for GitHub Copilot review rule -->
 <!--
-レビューする際には、以下のprefix(接頭辞)を付けてください。
-[must] must fix
-[imo] in my opinion
-[nits] nitpick
-[ask] question
-[fyi] for your information
+# PR Review への指示
+
+## コメントの言語
+- プルリクエスト概要やコメントは必ず日本語で書いてください。
+
+## レビューコメントの分類（prefix）
+レビュー内容には以下の接頭辞（prefix）を付けてください。
+
+- [must] 修正必須の不具合・バグ・仕様違反
+- [imo] 提案ベースの意見（改善案、主観的な好みや選択肢の提案など）
+- [nits] 微細な指摘（客観的なコードスタイルや表記揺れなど、機能に影響しないもの）
+- [ask] 質問や確認事項
+- [fyi] 参考情報として（補足的な情報や背景の共有）
 -->
 <!-- for GitHub Copilot review rule -->
 
