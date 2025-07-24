@@ -36,11 +36,11 @@
 ## レビューコメントの分類（prefix）
 レビュー内容には以下の接頭辞（prefix）を付けてください。
 
-- [must] must fix
-- [imo] in my opinion
-- [nits] nitpick
-- [ask] question
-- [fyi] for your information
+- [must] 修正が必須
+- [imo] 私の意見では
+- [nits] 細かい指摘（例: コードのスタイルやコメントの改善など）
+- [ask] 質問
+- [fyi] 参考情報として
 -->
 <!-- for GitHub Copilot review rule -->
 
