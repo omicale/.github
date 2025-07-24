@@ -1,7 +1,7 @@
-# GitHub Copilot Chat / PR Review に関する指示
+# GitHub Copilot Chat / PR Review への指示
 
 ## 📝 コメントの言語
-- コメントは必ず **日本語で書いてください**
+- レビューは必ず **日本語で書いてください**
 
 ## 🔖 レビューコメントの分類（prefix）
 レビュー内容には以下の接頭辞（prefix）を必ず付けてください：
