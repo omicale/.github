@@ -1,7 +1,7 @@
 # GitHub Copilot Chat / PR Review への指示
 
 ## 📝 コメントの言語
-- Pull Request Overviewやコメントは必ず日本語で書いてください。
+- プルリクエスト概要やコメントは必ず日本語で書いてください。
 
 ## 🔖 レビューコメントの分類（prefix）
 レビュー内容には以下の接頭辞（prefix）を付けてください。
